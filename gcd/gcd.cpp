@@ -1,3 +1,9 @@
+/**
+ *  Author: Jianping Zeng
+ *  PhD Student of Computer Science and Engineering Department
+ *  The University of Nebraska-Lincoln
+ *  email : jizeng@cse.unl.edu
+ ** /
 #include<iostream>
 #include<algorithm>
 #include<string>
